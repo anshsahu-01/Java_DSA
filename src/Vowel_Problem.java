@@ -7,12 +7,10 @@ public class Vowel_Problem {
         char ch = sc.next().charAt(0);
 
         switch (ch){
-            case'a', 'e', 'i', 'o' ,'u' ->{
+            case'a', 'e', 'i', 'o' ,'u' ->
                 System.out.println("This is a vowel");
-            }
-            default -> {
+            default ->
                 System.out.println("This is a consonant");
-            }
         }
     }
 }
