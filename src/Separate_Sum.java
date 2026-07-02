@@ -11,7 +11,6 @@ public class Separate_Sum {
         while(num != 0){
             int lastDigit = num%10;
             sum += lastDigit;
-
             num /= 10;
         }
         System.out.println("The sum of all the digits is :" + sum);
