@@ -21,5 +21,6 @@ public class Guess_The_Number {
                 System.out.println("You won in " + attempt + " attempts");
             }
         }
+        sc.close();
     }
 }

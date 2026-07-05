@@ -12,5 +12,6 @@ public class Vowel_Problem {
             default ->
                 System.out.println("This is a consonant");
         }
+        sc.close();
     }
 }

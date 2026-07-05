@@ -24,5 +24,6 @@ public class Shopping_Discount {
             System.out.println("Total Discount :" + (amount*20)/100);
             System.out.println("You have to pay :" + (amount - (amount*20)/100));
         }
+        sc.close();
     }
 }

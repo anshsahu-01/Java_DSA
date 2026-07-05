@@ -13,6 +13,8 @@ public class Separate_Sum {
             sum += lastDigit;
             num /= 10;
         }
+        
         System.out.println("The sum of all the digits is :" + sum);
+        sc.close();
     }
 }

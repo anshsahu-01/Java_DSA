@@ -11,6 +11,7 @@ public class Saparate_Numbers {
             System.out.println(lastDigit);
             num /= 10;
         }
+        sc.close();
     }
 }
 

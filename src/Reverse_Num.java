@@ -13,5 +13,6 @@ public class Reverse_Num {
             num /= 10;
         }
         System.out.println(rev);
+        sc.close();
     }
 }

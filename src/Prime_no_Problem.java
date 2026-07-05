@@ -20,5 +20,6 @@ public class Prime_no_Problem {
         }else {
             System.out.println("Number is not prime");
         }
+        sc.close();
     }
 }

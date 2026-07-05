@@ -16,6 +16,7 @@ public class Palindrome {
         }
 
         System.out.println(originalNum == rev ? "Palindrome" : "Not Palindrome");
+        sc.close();
     }
 }
 
