@@ -1,4 +1,4 @@
-package Leetcode;
+package LeetCode;
 
 class Problem_3527 {
     public long[] resultArray(int[] arr, int k) {

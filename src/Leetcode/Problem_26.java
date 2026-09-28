@@ -1,4 +1,4 @@
-package Leetcode;
+package LeetCode;
 
 public class Problem_26 {
     public int removeDuplicate(int[] arr){

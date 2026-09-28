@@ -1,4 +1,4 @@
-package Leetcode;
+package LeetCode;
 
 public class Problem_2319 {
     public boolean checkXMatrix(int[][] arr) {

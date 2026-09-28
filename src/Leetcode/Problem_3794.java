@@ -1,4 +1,4 @@
-package Leetcode;
+package LeetCode;
 
 public class Problem_3794 {
     public String reversePrefix(String s, int k){

@@ -1,4 +1,4 @@
-package Leetcode;
+package LeetCode;
 
 
 //3427. Sum of Variable Length Subarrays
