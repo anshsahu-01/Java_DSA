@@ -27,7 +27,7 @@ package LeetCode;
 
 // Follow up: What if the inputs contain Unicode characters? How would you adapt your solution to such a case?
 
-class Probem_242 {
+class Problem_242 {
     public boolean isAnagram(String s, String t) {
         int[] freq1 = new int[26];
         int n = freq1.length;
